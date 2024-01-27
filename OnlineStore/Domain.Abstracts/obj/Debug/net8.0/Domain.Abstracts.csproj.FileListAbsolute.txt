@@ -9,3 +9,15 @@ C:\Repos\temp\OnlineStore\TestStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.
 C:\Repos\temp\OnlineStore\TestStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\refint\Domain.Abstracts.dll
 C:\Repos\temp\OnlineStore\TestStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.pdb
 C:\Repos\temp\OnlineStore\TestStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\ref\Domain.Abstracts.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\bin\Debug\net8.0\Domain.Abstracts.deps.json
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\bin\Debug\net8.0\Domain.Abstracts.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\bin\Debug\net8.0\Domain.Abstracts.pdb
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.AssemblyInfoInputs.cache
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.AssemblyInfo.cs
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.csproj.CoreCompileInputs.cache
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.sourcelink.json
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\refint\Domain.Abstracts.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\Domain.Abstracts.pdb
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain.Abstracts\obj\Debug\net8.0\ref\Domain.Abstracts.dll

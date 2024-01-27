@@ -96,11 +96,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\QueryService\\QueryService.csproj",
+      "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\QueryService\\QueryService.csproj",
       "projectName": "QueryService",
-      "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\QueryService\\QueryService.csproj",
+      "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\QueryService\\QueryService.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\QueryService\\obj\\",
+      "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\QueryService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj"
+            "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj"
             }
           }
         }

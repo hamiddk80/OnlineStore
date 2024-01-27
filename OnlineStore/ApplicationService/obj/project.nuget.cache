@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XgDCF/1QsWV6Zo7mCIK7/RDj+H8sHvRFVzt5hAHMEocT7lG5zimqkEKPdQgTRENiEhgyYYXEt1Bi98Fw56Drww==",
+  "dgSpecHash": "6z0VdJfg6sNmaiA7Fxa0iWKcvW6AH1nAMf9HhRg/Ex706rTZm8K57W58zB26YPMOQ0Y1VIuDkTigc0VBV3cdWg==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj",
+  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

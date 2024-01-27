@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AtrVaCwNhrXaMmvGQPn297HS3QKzNntlR8HrIyYiF+TNoleYfIArZnZaBj7TLQ8mg1ahjaCYlDszbLJ8bMWyCw==",
+  "dgSpecHash": "9TVGOTAQmAkQfHM4ymKMVBcKXyV+l2h9bIefnrRhVku243JCuU7/1MKDFFs09dmEbipdAC6cNjhjjiBL1Jw1HA==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
   ],

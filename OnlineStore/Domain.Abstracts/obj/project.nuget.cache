@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "azdoN2WmaOD/u5gRHOJj/j1xtcJEZFUJ7tYsB89vE7sKiLMKzuQj9NCQh3iWQG+khO5Mxnt1Xtaw+T7Sc9e05A==",
+  "dgSpecHash": "MwmCdLOkehMwAvh3jYSI5TijbYQhB/K0OtX/WiCGtCXkvvIp31IJRIXvctFHZ6b1Mhv+wW04/dyZq31zUjK13Q==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
+  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

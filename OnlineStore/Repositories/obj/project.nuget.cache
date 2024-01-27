@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6KVz/vj4uFAneARxFfQL94RW0Io8RGHB7TTADMTqATWdXMKx5x3vOgjdc1jVmOXMfwBdlllZHZ06b4ikvzmoA==",
+  "dgSpecHash": "TjNSsyEgFLQSgwzvNktC/nuysipiRteh7/uu1vvwTJ1uTxujf7PMKHwQfg5sIy5myqaBEDkEPhUKdRHvSlc/ag==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Repositories\\Data.Sql.csproj",
+  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Repositories\\Data.Sql.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

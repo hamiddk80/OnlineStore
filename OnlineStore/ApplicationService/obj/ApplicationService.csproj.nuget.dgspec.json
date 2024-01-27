@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj": {}
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj": {
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj",
+        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj",
         "projectName": "ApplicationService",
-        "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj",
+        "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\ApplicationService\\ApplicationService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\ApplicationService\\obj\\",
+        "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj"
+              "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj"
               },
-              "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\DomainService\\DomainService.csproj": {
-                "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\DomainService\\DomainService.csproj"
+              "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\DomainService\\DomainService.csproj": {
+                "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\DomainService\\DomainService.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj": {
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\obj\\",
+        "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj"
+              "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -131,14 +131,14 @@
         }
       }
     },
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
+        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
         "projectName": "Domain.Abstracts",
-        "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
+        "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\obj\\",
+        "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\DomainService\\DomainService.csproj": {
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\DomainService\\DomainService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\DomainService\\DomainService.csproj",
+        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\DomainService\\DomainService.csproj",
         "projectName": "DomainService",
-        "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\DomainService\\DomainService.csproj",
+        "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\DomainService\\DomainService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\DomainService\\obj\\",
+        "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\DomainService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,11 +210,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj"
+              "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Contracts\\Contracts.csproj"
               },
-              "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj"
+              "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj"
               }
             }
           }
@@ -248,14 +248,14 @@
         }
       }
     },
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj": {
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain\\obj\\",
+        "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -272,8 +272,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {
-                "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj"
+              "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {
+                "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj"
               }
             }
           }

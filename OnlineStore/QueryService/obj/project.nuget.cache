@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "keRbPCtUV+9DkMChqqLOaQfmp1n76dtoen0EysZHWPsxTnXPiGtgefmh5UYxopovBW9TKANzy82jixbFff4f7Q==",
+  "dgSpecHash": "jmNTFuv/yBZj9pNXl5XQQ5ij5z8+REuYjQFQI9f9lWMayIpD4hYSg69n1aeS4yJdxWAODxLERDkJNhwZC5qPdg==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\QueryService\\QueryService.csproj",
+  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\QueryService\\QueryService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
   ],

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {}
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {
+    "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
+        "projectUniqueName": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
         "projectName": "Domain.Abstracts",
-        "projectPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
+        "projectPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\Domain.Abstracts.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Domain.Abstracts\\obj\\",
+        "outputPath": "C:\\Repos\\temp\\OnlineStore\\OnlineStore\\OnlineStore\\Domain.Abstracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

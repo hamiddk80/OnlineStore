@@ -1,0 +1,16 @@
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\bin\Debug\net8.0\Domain.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\bin\Debug\net8.0\Domain.Abstracts.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\bin\Debug\net8.0\Domain.Abstracts.pdb
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.csproj.CopyComplete
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Repos\temp\OnlineStore\OnlineStore\OnlineStore\Domain\obj\Debug\net8.0\ref\Domain.dll
