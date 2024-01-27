@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxZoC2GXjz6a1JuLqT6+6DNY5wRSPx0f/mv3DtFyjBb/bi+ekkeS6iW3ujFQrMD9KF90OmJdRK0RfeaDOOZ+NA==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\temp\\OnlineStore\\TestStore\\OnlineStore\\Contracts\\Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
