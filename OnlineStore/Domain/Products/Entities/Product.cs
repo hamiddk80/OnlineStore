@@ -44,11 +44,23 @@ namespace Domain.Products.Entities
 
         public void DecreaseStock(int stock)
         {
+            if (stock < 0)
+                throw new ArgumentOutOfRangeException("");
+
+            if ((this.Stock - stock) < 0)
+                throw new ArgumentOutOfRangeException("");
+
             HandleEvent(new ProductStockDecreased(this.Id, stock));
         }
 
         public void UpdateStock(int stock)
         {
+            if (stock < 0)
+                throw new ArgumentOutOfRangeException("");
+
+            if ((this.Stock - stock) < 0)
+                throw new ArgumentOutOfRangeException("");
+
             HandleEvent(new ProductStockUpdated(this.Id, stock));
         }
 
